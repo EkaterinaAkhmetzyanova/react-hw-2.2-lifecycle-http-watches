@@ -1,0 +1,43 @@
+.TimezoneForm {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 650px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.TimezoneFormItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.TimezoneWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 650px;
+}
+
+.Timezone {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.TimezoneName {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.DeleteBtn {
+  margin-bottom: 10px;
+  align-self: flex-end;
+}
+
+.Watch {
+  margin-bottom: 15px;
+}
